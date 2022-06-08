@@ -10,19 +10,10 @@ List<int> LinePositions(string text, string search){
             }
             aux = i + aux;
             i = 0;
-            text = text.Substring(text.IndexOf(search) + search.Length);
+            text = text.Substring(i + search.Length);
         }
     }
     return a;
-}
-
-//Retorna uma string invertida:
-string InvertString(string str){
-    string aux = "";
-    for (int i = str.Length - 1; i >= 0; i--){
-        aux = aux + str[i];
-    }
-    return aux;
 }
 
 //Abre os ficheiro em modo binário e diz o tamanho do ficheiro:
@@ -47,7 +38,7 @@ void Binary(string FilePath){
         }
         aux = aux + a[a.Length - 1 - i];
     }
-    Console.Write(InvertString(aux));
+    Console.Write(aux.Reverse().ToArray());
 
     Console.Write(" bytes\n");
 }
@@ -93,7 +84,7 @@ void Search(string FilePath, string Word)
     Console.Write("\nFile size -> ");
     Binary(FilePath);
     Console.ForegroundColor = ConsoleColor.White;
-    Console.WriteLine(sr.ReadToEnd());
+    sr.Close();
 
     //Se o utilizador quiser copiar o output para um ficheiro:
     string copy = Console.ReadLine();
