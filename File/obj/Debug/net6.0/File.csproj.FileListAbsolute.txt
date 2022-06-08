@@ -1,0 +1,15 @@
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\File\obj\Debug\net6.0\File.csproj.AssemblyReference.cache
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\File\obj\Debug\net6.0\File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\File\obj\Debug\net6.0\File.AssemblyInfoInputs.cache
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\File\obj\Debug\net6.0\File.AssemblyInfo.cs
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\File\obj\Debug\net6.0\File.csproj.CoreCompileInputs.cache
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\File\bin\Debug\net6.0\File.exe
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\File\bin\Debug\net6.0\File.deps.json
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\File\bin\Debug\net6.0\File.runtimeconfig.json
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\File\bin\Debug\net6.0\File.dll
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\File\bin\Debug\net6.0\File.pdb
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\File\obj\Debug\net6.0\File.dll
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\File\obj\Debug\net6.0\refint\File.dll
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\File\obj\Debug\net6.0\File.pdb
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\File\obj\Debug\net6.0\File.genruntimeconfig.cache
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\File\obj\Debug\net6.0\ref\File.dll

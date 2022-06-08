@@ -1,0 +1,15 @@
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\Fibonacci\bin\Debug\net6.0\Fibonacci.exe
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\Fibonacci\bin\Debug\net6.0\Fibonacci.deps.json
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\Fibonacci\bin\Debug\net6.0\Fibonacci.runtimeconfig.json
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\Fibonacci\bin\Debug\net6.0\Fibonacci.dll
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\Fibonacci\bin\Debug\net6.0\Fibonacci.pdb
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\Fibonacci\obj\Debug\net6.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfo.cs
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\Fibonacci\obj\Debug\net6.0\Fibonacci.dll
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\Fibonacci\obj\Debug\net6.0\refint\Fibonacci.dll
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\Fibonacci\obj\Debug\net6.0\Fibonacci.pdb
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\Fibonacci\obj\Debug\net6.0\Fibonacci.genruntimeconfig.cache
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\Fibonacci\obj\Debug\net6.0\ref\Fibonacci.dll

@@ -1,0 +1,13 @@
+84 ->             Console.ForegroundColor = ConsoleColor.Blue;
+90 ->             Console.ForegroundColor = ConsoleColor.White;
+93 ->                     Console.ForegroundColor = ConsoleColor.Red;
+95 ->                     Console.ForegroundColor = ConsoleColor.White;
+106 ->     Console.ForegroundColor = ConsoleColor.Green;
+108 ->     Console.ForegroundColor = ConsoleColor.Cyan;
+111 ->     Console.ForegroundColor = ConsoleColor.White;
+128 ->     Console.ForegroundColor = ConsoleColor.Green;
+130 ->     Console.ForegroundColor = ConsoleColor.White;
+136 ->         Console.ForegroundColor = ConsoleColor.Red;
+138 ->         Console.ForegroundColor = ConsoleColor.White;
+141 ->     Console.ForegroundColor = ConsoleColor.Red;
+143 ->     Console.ForegroundColor = ConsoleColor.White;
