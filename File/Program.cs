@@ -98,6 +98,20 @@ void Search(string FilePath, string Word)
 }
 
 Console.Clear();
+
+var hour = DateTime.Now.Hour;
+Console.OutputEncoding = System.Text.Encoding.Unicode;
+
+if(hour >= 6 && hour <= 12){
+    Console.WriteLine("🌄 Good morning!");
+}   else if (hour >= 13 && hour <= 18){
+    Console.WriteLine("☀️ Good afternoon!");
+}   else if (hour >= 19 && hour <= 23){
+    Console.WriteLine("🌅 Good evening!");
+}   else{
+    Console.WriteLine("🌃 Good night!");
+}
+
 Console.Write("Enter the file path -> ");
 string FilePath = Console.ReadLine();
 

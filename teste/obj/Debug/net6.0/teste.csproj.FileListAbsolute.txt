@@ -1,0 +1,15 @@
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\teste\bin\Debug\net6.0\teste.exe
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\teste\bin\Debug\net6.0\teste.deps.json
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\teste\bin\Debug\net6.0\teste.runtimeconfig.json
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\teste\bin\Debug\net6.0\teste.dll
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\teste\bin\Debug\net6.0\teste.pdb
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\teste\obj\Debug\net6.0\teste.csproj.AssemblyReference.cache
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\teste\obj\Debug\net6.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\teste\obj\Debug\net6.0\teste.AssemblyInfoInputs.cache
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\teste\obj\Debug\net6.0\teste.AssemblyInfo.cs
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\teste\obj\Debug\net6.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\teste\obj\Debug\net6.0\teste.dll
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\teste\obj\Debug\net6.0\refint\teste.dll
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\teste\obj\Debug\net6.0\teste.pdb
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\teste\obj\Debug\net6.0\teste.genruntimeconfig.cache
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\C#\teste\obj\Debug\net6.0\ref\teste.dll
