@@ -10,7 +10,7 @@ List<int> LinePositions(string text, string search){
             }
             aux = i + aux;
             i = 0;
-            text = text.Substring(i + search.Length);
+            text = text.Substring(text.IndexOf(search) + search.Length);
         }
     }
     return a;
