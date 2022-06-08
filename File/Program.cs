@@ -1,18 +1,4 @@
-﻿//Counter of the number word in the string:
-int WordCount(string text, string search){
-    if (text.Length >= search.Length){
-        if (text.Substring(0, search.Length).ToUpper().Contains(search.ToUpper())){
-            return 1 + WordCount(text.Substring(search.Length), search);
-        }
-        else{
-            return WordCount(text.Substring(1), search); //Retorna a String uma posição a frente
-        }
-    }   else{
-        return 0;
-    }
-}
-
-//Retorna uma Lista com as posições de cada palavra encontrada:
+﻿//Retorna uma Lista com as posições de cada palavra encontrada:
 List<int> LinePositions(string text, string search){
     List<int> a = new List<int>();
     int aux = 0;
@@ -96,7 +82,7 @@ void Search(string FilePath, string Word)
                 }
             }
             Console.WriteLine();
-            WordNumber = WordNumber + WordCount(line, Word);
+            WordNumber = WordNumber + WordPositions.Count/Word.Length; //Todos os caracteres que fazerem parte da palavra e divido pelo tamanho da palavra
             ImportantLine = ImportantLine + LineNumber + " -> " + line + "\n";
         }
         LineNumber++;
