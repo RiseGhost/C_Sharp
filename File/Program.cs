@@ -39,8 +39,8 @@ void Binary(string FilePath){
         aux = aux + a[a.Length - 1 - i];
     }
     Console.Write(aux.Reverse().ToArray());
-
-    Console.Write(" bytes\n");
+    float mb = ((size + 10) / 1024f) / 1024f;
+    Console.Write(" bytes  --> " + mb.ToString("N5") + " MB" + "\n");
 }
 
 //Open the file and print the result:
@@ -83,6 +83,7 @@ void Search(string FilePath, string Word)
     Console.ForegroundColor = ConsoleColor.Cyan;
     Console.Write("\nFile size -> ");
     Binary(FilePath);
+    Console.WriteLine("File lines -> " + (LineNumber - 1));
     Console.ForegroundColor = ConsoleColor.White;
     sr.Close();
 
